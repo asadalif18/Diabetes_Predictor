@@ -28,3 +28,9 @@ These packages are used for data analysis and building classification models.
 ## Conclusion
 
 This project provides a practical approach to predicting diabetes using machine learning techniques. The analysis and models help understand the relationships between health parameters and diabetes risk. For more details and the complete analysis, refer to the `Diabetes_pred.ipynb` notebook.
+
+### 🙌 Contributing
+
+If you find this template useful, feel free to give it a star ⭐ on GitHub! Your support is greatly appreciated. Also, follow me for more projects and updates.
+
+[My GitHub Account](https://github.com/asadalif18/)
